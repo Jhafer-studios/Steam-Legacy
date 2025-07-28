@@ -40,7 +40,7 @@ Steam® is a trademark of Valve Corporation. This installer includes unmodified 
 
 By using Steam, you agree to Valve’s official terms:
 → Steam Subscriber Agreement: https://store.steampowered.com/subscriber_agreement
-→ Valve Privacy Policy: https://www.valvesoftware.com/en/privacy
+→ Valve Privacy Policy: https://store.steampowered.com/privacy_agreement/
 
 This package does not modify, redistribute, or circumvent Steam’s licensing terms.
 
